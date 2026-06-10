@@ -1,0 +1,14 @@
+# 1. Check what Git is seeing (Are files saved? What branch am I on?)
+git status
+
+# 2. Stage a specific file for the next commit
+git add filename.py
+
+# 3. Stage ALL modified and new files at once (handy shortcut!)
+git add .
+
+# 4. Lock in your staged changes with a descriptive message
+git commit -m "Your clear message here"
+
+# 5. Push your local commits up to GitHub
+git push origin master
