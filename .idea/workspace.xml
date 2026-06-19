@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a26d2a8-2e05-4e99-99d7-4d81a1edf32d" name="Changes" comment="Week 1 project, second edit. Replaced sample document with actual assignment. Condensed pages.">
-      <change beforePath="$PROJECT_DIR$/Initial/debugging.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Initial/debugging.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Initial/git_cmd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Initial/git_cmd.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Initial/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Initial/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Initial/testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Initial/testing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NateLawonn_ProgrammingExercise_1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/ProgEx1/NateLawonn_ProgrammingExerciseOrigin_1.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NateLawonn_ProgrammingExercise_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProgEx1/NateLawonn_ProgrammingExerciseOrigin_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgEx1/~$teLawonn_ProgrammingExerciseTry_1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/ProgEx1/~$teLawonn_ProgrammingExerciseTry_1.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,18 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "nlawonn"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nlawonn&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nlawonn/ProgrammingConcepts2.git",
-    "accountId": "f503011a-42f2-4f75-a753-e6617a18e7eb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nlawonn/ProgrammingConcepts2.git&quot;,
+    &quot;accountId&quot;: &quot;f503011a-42f2-4f75-a753-e6617a18e7eb&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2,
   &quot;fromUser&quot;: false
@@ -44,9 +39,10 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "Merging master",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -66,7 +62,8 @@
       <option name="presentableId" value="Default" />
       <updated>1781101454712</updated>
       <workItem from="1781101457974" duration="4000" />
-      <workItem from="1781101723810" duration="354000" />
+      <workItem from="1781101723810" duration="1548000" />
+      <workItem from="1781899789849" duration="17000" />
     </task>
     <servers />
   </component>
