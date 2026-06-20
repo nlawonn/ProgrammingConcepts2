@@ -31,7 +31,7 @@ def main():
         lowest_expense = reduce(lambda acc, curr: curr if curr[1] < acc[1] else acc, expense_pairs)
 
         # 3. Display final results
-        print(f"Total Monthly Expenses: ${total_expense:.2f}")
+        print(f"Total Monthly Expense: ${total_expense:.2f}")
         print(f"Highest Expense Label: {highest_expense[0]} (${highest_expense[1]:.2f})")
         print(f"Lowest Expense Label: {lowest_expense[0]} (${lowest_expense[1]:.2f})")
     else:
