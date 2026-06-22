@@ -12,7 +12,7 @@ def phone_num(number):
         pattern = r'\d\d\d-\d\d\d-\d\d\d\d'
         s = input('Enter a 10-digit tel. number in format xxx-xxx-xxxx: ')
         while not re.fullmatch(pattern, s):
-            s = input("Invalid format. )
+            s = input("Invalid format.")
 def socsec_num(number):
     #Sets the SSN format and asks for user input
     if number == "2":
