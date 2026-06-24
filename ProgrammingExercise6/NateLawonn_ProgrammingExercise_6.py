@@ -12,14 +12,16 @@ def phone_num(number):
         pattern = r'\d\d\d-\d\d\d-\d\d\d\d'
         s = input('Enter a 10-digit tel. number in format xxx-xxx-xxxx: ')
         while not re.fullmatch(pattern, s):
-            s = input("Invalid format.")
+            s = input("Invalid format. Please enter a 10-digit phone number in xxx-xxx-xxxx format. ")
+        print('Number accepted.')
+
 def socsec_num(number):
     #Sets the SSN format and asks for user input
     if number == "2":
         pattern = r'\d\d\d-\d\d-\d\d\d\d'
         s = input('Enter a 9-digit SSN in format xxx-xx-xxxx: ')
         while not re.fullmatch(pattern, s):
-            s = input("Invalid format. Please enter a SSN in xxx-xx-xxxx format. ")
+            s = input("Invalid format. Please enter a 9-digit SSN in xxx-xx-xxxx format. ")
         print('Number accepted.')
 
 def zip_code(number):
@@ -28,7 +30,7 @@ def zip_code(number):
         pattern = r'\d\d\d\d\d'
         s = input('Enter a 5-digit zip code: ')
         while not re.fullmatch(pattern, s):
-            s = input("Invalid format. Please enter a zip code in xxxxx format. ")
+            s = input("Invalid format. Please enter a 5-digit zip code in xxxxx format. ")
         print('Number accepted.')
 
 if __name__ == "__main__":
